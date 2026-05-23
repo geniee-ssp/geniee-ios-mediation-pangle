@@ -33,7 +33,7 @@ let package = Package(
         .binaryTarget(
             name: "GenieeMediationPangle",
             url: "https://github.com/unigeniee/geniee-ios-mediation-pangle/releases/download/7.9.100/GenieeMediationPangle.7.9.1.0.zip",
-            checksum: "8c45ff811a230d5a330c36a38a666ec2b74475eba7443a377c265c9327f4184a"
+            checksum: "b3e1d1ead6261a48c6fc855cf0198d648719ac059cba87a71fd0caf986269fbd"
         )
     ]
 )
