@@ -13,7 +13,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/geniee-ssp/swift-package-manager-geniee-ios-sdk.git",
-            from: "8.4.3"
+            from: "8.5.1"
         ),
         .package(
             url: "https://github.com/bytedance/AdsGlobalPackage.git",
@@ -32,8 +32,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "GenieeMediationPangle",
-            url: "https://github.com/geniee-ssp/geniee-ios-mediation-pangle/releases/download/7.9.100/GenieeMediationPangle.7.9.1.0.zip",
-            checksum: "b3e1d1ead6261a48c6fc855cf0198d648719ac059cba87a71fd0caf986269fbd"
+            url: "https://github.com/geniee-ssp/geniee-ios-mediation-pangle/releases/download/7.9.101/GenieeMediationPangle.7.9.1.1.zip",
+            checksum: "273ea751595a9b6322fb0ed42cfa30e2b2d754fa26d345fc0dd269c6f0144167"
         )
     ]
 )
